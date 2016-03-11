@@ -9,16 +9,16 @@ body {
 }
 
 header {
-	background-color: #E7E5E6
+	background-color: #E7E5E6;
 	height: 140px;
 }
  header .logo {
  	background-color: #AEAEAE;
- 	width: 235px;
+ 	width: 600px;
  	position: relative;
  	top:25px;
  	left: 35px;
- 	font-size: 48px;
+ 	font-size: 32px;
  	padding: 15px 10px 15px 45px;
  	text-transform: uppercase;
 }
